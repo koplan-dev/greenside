@@ -1,0 +1,3 @@
+
+
+AddSimpleModel(-1,19379, -2000, "textdraw/wmymech.dff", "textdraw/Velo.txd");
