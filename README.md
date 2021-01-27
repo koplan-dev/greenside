@@ -8,7 +8,9 @@ Não retire os créditos!
 # Créditos do gamemode:
 
 • Revolts
+
 • Koplan
+
 • Struth
 • JohnBlack
 
